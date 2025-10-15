@@ -3,7 +3,8 @@ package numberrangesummarizer;
 import java.util.ArrayList;
 import java.util.Collection;
 
-public class NumberParser {
+public class
+NumberParser {
 
 
     // Parses a comma-separated string of numbers into a collection of integers.
